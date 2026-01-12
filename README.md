@@ -1,2 +1,2 @@
-# ACHIEVE-6
-Offline credit-scoring engine for Namibia – no internet, 10-second green button
+ACHIEVE-6-Core-Engine
+High-velocity, offline-first credit decisioning engine. Automated NRV (Net Realizable Value) calculations and BoN-compliant affordability mapping for Southern African lenders.
